@@ -1,0 +1,16 @@
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Application.deps.json
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Application.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\ref\PostExcel.Application.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Application.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Core.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Infrastructure.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Infrastructure.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\bin\Debug\net5.0\PostExcel.Core.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.csproj.AssemblyReference.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.AssemblyInfoInputs.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.AssemblyInfo.cs
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.csproj.CoreCompileInputs.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\ref\PostExcel.Application.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Application\obj\Debug\net5.0\PostExcel.Application.pdb

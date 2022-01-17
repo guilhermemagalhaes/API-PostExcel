@@ -1,0 +1,17 @@
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Infrastructure.deps.json
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Infrastructure.runtimeconfig.json
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Infrastructure.runtimeconfig.dev.json
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Infrastructure.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\ref\PostExcel.Infrastructure.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Infrastructure.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Core.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\bin\Debug\net5.0\PostExcel.Core.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.csproj.AssemblyReference.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.AssemblyInfoInputs.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.AssemblyInfo.cs
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\ref\PostExcel.Infrastructure.dll
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.pdb
+D:\Workroot\API-PostExcel\PostExcel\PostExcel.Infrastructure\obj\Debug\net5.0\PostExcel.Infrastructure.genruntimeconfig.cache
